@@ -368,6 +368,26 @@ adform.com, 2904, RESELLER
 appnexus.com, 14416, RESELLER
 orangeclickmedia.com, C-1054, RESELLER
 spinx.biz, 1373698864, RESELLER
+display.io, 201090, RESELLER
+admanmedia.com, 34, RESELLER
+visiblemeasures.com, 1009, RESELLER
+peak226.com, 12900, RESELLER
+dauup.com, 34109, RESELLER
+rhythmone.com, 3948367200, RESELLER, a670c89d4a324e47
+rubiconproject.com, 14558, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 25386, RESELLER, 0bfd66d529a55807
+adform.com, 2742, RESELLER
+instreamatic.com, 78, RESELLER
+vidoomy.com, 2704434, RESELLER
+adswizz.com, entravision, RESELLER
+video.unrulymedia.com, 2979066401945419350, RESELLER
+blueseasx.com, 203620, RESELLER, 7998eac5087f6110
+rubiconproject.com, 26132, RESELLER, 0bfd66d529a55807
+outbrain.com, 00ab8f68679cc060c8bbc1035e70030614, RESELLER
+pangleglobal.com, 82832, RESELLER
+bigo.sg, 196, RESELLER
+openx.com, 537045659, RESELLER, 6a698e2ec38604c6
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
 
 applovin.com, 08b9f426c1bba8f41bab07e7897b04f7, DIRECT
 algorix.co, 60532, RESELLER, 5b394c12fea27a1d
