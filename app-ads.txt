@@ -459,6 +459,14 @@ bidmachine.io, 200, DIRECT
 betweendigital.com, 44727, RESELLER
 pubmatic.com,163420, RESELLER, 5d62403b186f2ace
 pubmatic.com,165340, RESELLER, 5d62403b186f2ace
+blueseasx.com, 203620, RESELLER, 7998eac5087f6110
+rubiconproject.com, 26132, RESELLER, 0bfd66d529a55807
+outbrain.com, 00ab8f68679cc060c8bbc1035e70030614, RESELLER
+pangleglobal.com, 82832, RESELLER
+bigo.sg, 196, RESELLER
+pubnative.net, 1009485, RESELLER, d641df8625486a7b
+openx.com, 540543195, RESELLER, 6a698e2ec38604c6
+
 
 applovin.com, 08b9f426c1bba8f41bab07e7897b04f7, DIRECT
 algorix.co, 60532, RESELLER, 5b394c12fea27a1d
